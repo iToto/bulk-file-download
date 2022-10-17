@@ -20,3 +20,6 @@ bin/
 # ignore images
 *.jpg
 images/
+
+# ignore private files
+*.priv
